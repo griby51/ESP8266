@@ -1,7 +1,7 @@
 // Définition des entrées/sorties
 
-#define PIN_LED_BLEU 5
-#define PIN_BOUTON 4
+int PIN_LED_BLEU 5
+int PIN_BOUTON 4
 
 void setup() {
  Serial.begin(115200);
